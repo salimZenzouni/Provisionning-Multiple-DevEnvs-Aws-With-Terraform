@@ -13,6 +13,7 @@ _**What's Inside?**_
 **Community-Driven Improvements:** Open to contributions, suggestions, and enhancements from the vibrant Terraform and AWS community.
 
 _**Getting Started**_
+
 1- create a aws IAM user with programmatic access. 
 
 2- Prepare the workspace (in for example vs code) as shown in this video: https://www.youtube.com/watch?v=qk81MDtC6KM&lc=Ugzz7Hf2PiAT5X6WtsB4AaABAg
