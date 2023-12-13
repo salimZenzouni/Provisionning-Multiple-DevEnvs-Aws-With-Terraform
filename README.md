@@ -23,7 +23,7 @@ _**Getting Started**_
 
 4- Then terraform plan, apply and voila your environment is set up in seconds in AWS.
 
-_**Contributing **_
+_**Contributing**_
 
 Your contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated. Check out our CONTRIBUTING.md for guidelines on how to proceed.
 
